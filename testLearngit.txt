@@ -1,5 +1,5 @@
 master version sdfsdf
-master bug fixed new bug fixed
+master bug fixed new bug fixed dev7 bug coming
 add a new line in testLearngit file
 dev2
 dev3
